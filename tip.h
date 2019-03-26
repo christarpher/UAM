@@ -1,0 +1,1 @@
+double tip, bill, newtip;
